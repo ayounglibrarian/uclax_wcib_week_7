@@ -1,6 +1,15 @@
 body {
   font-family: sans-serif;
-  margin: 20px; }
+  margin: 20px;
+  background: url("../images/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  body img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; }
   body .board {
     background: yellow;
     width: 300px;
@@ -17,3 +26,12 @@ body {
   body .animal {
     width: 100px;
     height: auto; }
+
+.btn-primary {
+  color: #000;
+  background-color: #f29faf;
+  border-color: #533d25;
+  margin-top: 50px;
+  width: 1024px;
+  height: 65px;
+  font-size: 35px; }
