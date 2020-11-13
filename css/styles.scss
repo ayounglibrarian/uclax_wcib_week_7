@@ -35,7 +35,7 @@ body {
   // }
 
   .boys {
-    width: 1000px;
+    width: 300px;
     height: auto;
   }
 
@@ -63,12 +63,18 @@ body {
 	background: none;
 }
 
-.btn-primary {
-    color: #000;
-    background-color: #f29faf;
-    border-color: #533d25;
-		margin-top:50px;
-	 width:1024px;
-	 height:65px;
-	 font-size: 35px;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+// .btn-primary {
+//     color: #000;
+//     background-color: #f29faf;
+//     border-color: #533d25;
+// 		margin-top:50px;
+// 	 width:1024px;
+// 	 height:65px;
+// 	 font-size: 35px;
+// }
