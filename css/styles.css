@@ -1,32 +1,32 @@
 body {
   font-family: sans-serif;
   margin: 0px;
-  background: url("../images/background.jpg");
-  background-position: center;
-  background-size: cover; }
+  background: url("../images/back.jpg");
+  background-repeat: repeat;
+  background-size: 2000px 800px; }
 
 .boys {
   width: 300px;
   height: auto; }
 
 .donut-button {
-  width: 800px;
-  height: 800px;
-  padding: 0;
+  width: 300px;
+  height: 300px;
+  padding: 50;
   border: none;
   background: none; }
 
 .ic-button {
-  width: 700px;
-  height: 700px;
-  padding: 0;
+  width: 300px;
+  height: 300px;
+  padding: 50;
   border: none;
   background: none; }
 
 .refresh-button {
-  width: 800px;
-  height: 800px;
-  padding: 0;
+  width: 300px;
+  height: 300px;
+  padding: 50;
   border: none;
   background: none; }
 
