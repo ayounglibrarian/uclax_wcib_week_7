@@ -12,32 +12,50 @@ img {
   margin-right: auto;
   width: 40%;
 }
+	//
+  // .board {
+  // 	background: yellow;
+  // 	width: 300px;
+  // 	height: 300px;
+  //   margin-bottom: 20px;
+  // }
 
-  .board {
-  	background: yellow;
-  	width: 300px;
-  	height: 300px;
-    margin-bottom: 20px;
-  }
-
-  .square {
-  	width: 100px;
-  	height: 100px;
-  	float: left;
-
-    &.red {
-    	background: red;
-    }
-
-    &.green {
-    	background: green;
-    }
-  }
+  // .square {
+  	// width: 100px;
+  	// height: 100px;
+  	// float: left;
+	//
+  //   &.red {
+  //   	background: red;
+  //   }
+	//
+  //   &.green {
+  //   	background: green;
+  //   }
+  // }
 
   .boys {
     width: 1000px;
     height: auto;
   }
+}
+
+.donut-button {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.ic-button {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.refresh-button {
+	width: 100px;
+	height: 100px;
+	float: left;
 }
 
 .btn-primary {
