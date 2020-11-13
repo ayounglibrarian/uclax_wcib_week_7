@@ -1,40 +1,117 @@
 body {
-  font-family: sans-serif;
-  margin: 0px;
-  background: url("../images/back.jpg");
-  background-repeat: repeat;
-  background-size: 2000px 800px; }
+	font-family: sans-serif;
+	margin: 0px;
+	background: url("../images/back.jpg");
+	background-repeat: repeat;
+  background-size: 2000px 800px;
+  // background-position: center;
+  // background-size: cover;
+}
 
-.boys {
-  width: 300px;
-  height: auto; }
+// img {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   width: 40%;
+// }
+	//
+  // .board {
+  // 	background: yellow;
+  // 	width: 300px;
+  // 	height: 300px;
+  //   margin-bottom: 20px;
+  // }
 
-.row {
-  border: 0px dashed pink; }
+  // .square {
+  	// width: 100px;
+  	// height: 100px;
+  	// float: left;
+	//
+  //   &.red {
+  //   	background: red;
+  //   }
+	//
+  //   &.green {
+  //   	background: green;
+  //   }
+  // }
+
+  .boys {
+    width: 300px;
+    height: auto;
+  }
+
+// 	#outer
+// {
+//     width:100%;
+//     text-align: center;
+// }
+// .inner
+// {
+//     display: inline-block;
+// }
+
+// span:before{
+//     content:" ";
+//     display:inline-block;
+//     width:32px;
+// }
+
+// .row {
+//   border: 0px dashed pink /* test */
+// }
+
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: none;
+}
+
+.flex-container > div {
+  background-color: none;
+  width: 100%;
+  margin: 10px;
+  text-align: center;
+}
 
 .donut-button {
-  width: 50%;
-  height: 50%;
-  padding: 10px;
+	width: 50%;
+	height: 50%;
+	padding: 10px;
   border: none;
-  background: none; }
+  background: none;
+}
 
 .ic-button {
-  width: 50%;
-  height: 50%;
-  padding: 10px;
-  border: none;
-  background: none; }
+	width: 50%;
+	height: 50%;
+	padding: 10px;
+	border: none;
+	background: none;
+}
 
 .refresh-button {
-  width: 50%;
-  height: 50%;
-  padding: 10px;
-  border: none;
-  background: none; }
+	width: 50%;
+	height: 50%;
+	padding: 10px;
+	border: none;
+	background: none;
+}
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%; }
+  width: 50%;
+}
+
+// .btn-primary {
+//     color: #000;
+//     background-color: #f29faf;
+//     border-color: #533d25;
+// 		margin-top:50px;
+// 	 width:1024px;
+// 	 height:65px;
+// 	 font-size: 35px;
+// }
