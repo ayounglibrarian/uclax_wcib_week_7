@@ -23,8 +23,8 @@ body {
       background: red; }
     body .square.green {
       background: green; }
-  body .animal {
-    width: 100px;
+  body .boys {
+    width: 1000px;
     height: auto; }
 
 .btn-primary {
