@@ -7,7 +7,7 @@ body {
   // background-position: center;
   // background-size: cover;
 }
-
+/* 
 // img {
 //   display: block;
 //   margin-left: auto;
@@ -34,13 +34,13 @@ body {
   //   &.green {
   //   	background: green;
   //   }
-  // }
+  // } */
 
   .boys {
     width: 300px;
     height: auto;
   }
-
+/*
 // 	#outer
 // {
 //     width:100%;
@@ -49,8 +49,8 @@ body {
 // .inner
 // {
 //     display: inline-block;
-// }
-
+// } */
+/*
 // span:before{
 //     content:" ";
 //     display:inline-block;
@@ -59,7 +59,7 @@ body {
 
 // .row {
 //   border: 0px dashed pink /* test */
-// }
+// } */
 
 
 .flex-container {
@@ -105,7 +105,7 @@ body {
   margin-right: auto;
   width: 50%;
 }
-
+/*
 // .btn-primary {
 //     color: #000;
 //     background-color: #f29faf;
@@ -114,4 +114,4 @@ body {
 // 	 width:1024px;
 // 	 height:65px;
 // 	 font-size: 35px;
-// }
+// } */
